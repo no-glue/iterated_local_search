@@ -1,6 +1,6 @@
 # IteratedLocalSearch
 
-TODO: solves travelling salesman. tries to find shortes circuit.
+Solves travelling salesman. tries to find shortes circuit.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+You can do something like IteratedLocalSearch::IteratedLocalSearch.new.search([[50, 50], [70, 70]], 100, 50).
 
 ## Contributing
 
