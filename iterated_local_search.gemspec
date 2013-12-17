@@ -6,8 +6,8 @@ require 'iterated_local_search/version'
 Gem::Specification.new do |spec|
   spec.name          = "iterated_local_search"
   spec.version       = IteratedLocalSearch::VERSION
-  spec.authors       = ["dusan"]
-  spec.email         = ["dusan.milanovic@gecko.rs"]
+  spec.authors       = ["scriptical"]
+  spec.email         = ["nikolapav1985@gmail.com"]
   spec.description   = %q{iterated local search to solve travelling salesman}
   spec.summary       = %q{iterated local search to solve travelling salesman}
   spec.homepage      = ""
