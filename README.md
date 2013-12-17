@@ -1,6 +1,6 @@
 # IteratedLocalSearch
 
-Solves travelling salesman. tries to find shortes circuit.
+Solves travelling salesman. Tries to find shortest circuit.
 
 ## Installation
 
