@@ -1,6 +1,6 @@
 # IteratedLocalSearch
 
-TODO: Write a gem description
+TODO: solves travelling salesman. tries to find shortes circuit.
 
 ## Installation
 
